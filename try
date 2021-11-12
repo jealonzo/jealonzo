@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>MOMO</title>
+  <style>
+
+  ul{
+  width: 1340px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#EA00FF;
+  }
+
+  li {
+  float: left;
+  }
+
+  li a {
+  font-family: "Acme";
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
+  #header{
+  width: 1340px;
+  height: 731.25px;
+  }
+  #content-main{
+  width: 571px;
+  height: 800px;
+  float: left;
+  }
+  #content-side{
+  width: 729px;
+  height: 780px;
+  float: right;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  }
+  #footer{
+  fam
+  }
+  </style>
+</head>
+<body style="background-color:#FBCEB1">
+  <div id="header" style="background-color:#87CEEB"><img src="momo.jpg" width="1340" height="731.25" alt="Fanfare Momo"></div>
+  <div id="nav" font-family:="Acme&quot;">
+    <ul>
+      <li>
+        <a href="home.html">HOME</a>
+      </li>
+      <li>
+        <a href="twice.html">TWICE</a>
+      </li>
+      <li>
+        <a href="nayeon.html">NAYEON</a>
+      </li>
+      <li>
+        <a href="jeongyeon.html">JEONGYEON</a>
+      </li>
+      <li>
+        <a href="momo.html">MOMO</a>
+      </li>
+      <li>
+        <a href="sana.html">SANA</a>
+      </li>
+      <li>
+        <a href="jihyo.html">JIHYO</a>
+      </li>
+      <li>
+        <a href="mina.html">MINA</a>
+      </li>
+      <li>
+        <a href="dahyun.html">DAHYUN</a>
+      </li>
+      <li>
+        <a href="chaeyoung.html">CHAEYOUNG</a>
+      </li>
+      <li>
+        <a href="tzuyu.html">TZUYU</a>
+      </li>
+      <li>
+        <a href="about.html">ABOUT</a>
+      </li>
+    </ul>
+  </div>
+  <div id="content-main"><img src="momo1.jpg" width="571" height="800" alt="Formula of Love Momo"></div>
+  <div id="content-side" style="background-color=#FFD580">
+    <h2 style="font-family:verdana;"><mark><span style="background-color:#FFC0CB">Stage Name:</span></mark> Momo (모모)</h2>
+    <h4 style="font-family:verdana; line-height:3px"><mark><span style="background-color:#FFC0CB">Birth Name:</span></mark> Hirai Momo (平井 もも)</h4>
+    <h4 style="font-family:verdana; line-height:3px"><mark><span style="background-color:#FFC0CB">Nationality:</span></mark> Japanese</h4>
+    <h4 style="font-family:verdana; line-height:3px"><mark><span style="background-color:#FFC0CB">Position:</span></mark> Main Dancer, Sub Vocalist, Sub Rapper</h4>
+    <h4 style="font-family:verdana; line-height:3px"><mark><span style="background-color:#FFC0CB">Birthday:</span></mark> November 9, 1996</h4>
+    <h4 style="font-family:verdana; line-height:3px"><mark><span style="background-color:#FFC0CB">Zodiac Sign:</span></mark> Scorpio</h4>
+    <h4 style="font-family:verdana; line-height:3px"><mark><span style="background-color:#FFC0CB">Height:</span></mark> 167 cm (5’6″)</h4>
+    <h4 style="font-family:verdana; line-height:5px"><mark><span style="background-color:#FFC0CB">Weight:</span></mark> 48.5 kg (106 lbs)</h4>
+    <h4 style="font-family:verdana; line-height:7px"><mark><span style="background-color:#FFC0CB">Blood Type:</span></mark> A</h4>
+    <h4 style="font-family:verdana; line-height:7px"><mark><span style="background-color:#FFC0CB">MBTI Type:</span></mark> INFP-T</h4>
+    <h4 style="font-family:verdana; line-height:7px"><mark><span style="background-color:#FFC0CB">Momo Facts:</span></mark></h4>
+    <p style="line-height:5px">– She was born in Kyōtanabe, Kyoto, Japan. She has an older sister, named Hana. (2 years older than Momo)</p>
+    <p style="line-height:5px">Momo was eliminated in ep 6 of SIXTEEN, but J.Y.Park decided to add her as a member of Twice, because of</p>
+    <p style="line-height:5px">her dancing skills.</p>
+    <p style="line-height:5px">– She was scouted by JYP Entertainment after they saw a dance video of her and her older sister.</p>
+    <p style="line-height:5px">– She passed the audition on April 13, 2012. Her sister didn’t make it though.</p>
+    <p style="line-height:5px">–– Momo has the most confidence in dancing to urban. She also likes dancing to hip-hop.</p>
+    <p style="line-height:5px">– Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Chaeyoung, and Tzuyu appeared in J.Y. Park‘s “Fire” M/V.</p>
+    <p style="line-height:5px">– Her representative color is <mark><span style="background-color:#FFC0CB">Pink</span></mark> .</p>
+    <p style="line-height:5px">– She started taking dancing lessons when she was 3 years old because she wanted to follow her older sister.</p>
+    <p style="line-height:5px">–– Momo chose 64 as her favorite no., because it’s the number on her father’s shirt when he plays football.</p>
+    <p style="line-height:5px">She likes dolls/stuffed-toys.</p>
+    <p style="line-height:5px">– Momo and GOT7’s BamBam both have moms who are big fans of Rain.</p>
+    <p style="line-height:5px">– Momo’s family have 3 dogs, who are named Petco, Pudding, and Lucky (they are all females).</p>
+    <p style="line-height:5px">– Momo’s family have 3 dogs, who are named Petco, Pudding, and Lucky (they are all females).</p>
+  </div>
+</body>
+</html>
